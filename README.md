@@ -1,4 +1,4 @@
-# 💬 AI Chatbot — Streamlit + OpenAI
+# 💬 AI Chatbot - Streamlit + OpenAI
 
 A conversational AI chatbot built with **Python**, **Streamlit**, and **OpenAI's GPT-3.5**. 
 Supports multi-turn conversations with a clean, minimal chat UI.
